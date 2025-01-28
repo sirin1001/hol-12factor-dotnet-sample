@@ -475,3 +475,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+メモ.json
+TFApp_before/appsettings.Development.json
