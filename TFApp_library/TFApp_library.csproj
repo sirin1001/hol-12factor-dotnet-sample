@@ -4,7 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-
+    <RepositoryUrl>https://github.com/sirin1001/hol-12factor-dotnet-sample</RepositoryUrl>
     <PackageId>12FactorAppLibrarySample</PackageId>
     <Version>1.0.0</Version>
     <Authors>Alterbooth</Authors>
